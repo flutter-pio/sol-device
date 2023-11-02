@@ -1,0 +1,12 @@
+{
+"device": [
+  { "devid": "S9876543210",
+  "devtxt": "SENePort Poznan",
+  "devloc": "Poznan, Wolynska, piwnica',
+  "isVirtual": false },
+ { "devid": "S987654321A",
+  "devtxt": "SENePort MurGos",
+  "devloc": "Murowana, Mostowa, dom',
+  "isVirtual": false }
+]
+}
